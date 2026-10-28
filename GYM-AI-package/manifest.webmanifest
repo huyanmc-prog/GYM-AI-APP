@@ -1,0 +1,18 @@
+{
+  "name": "GymAI — Hướng dẫn tập gym",
+  "short_name": "GymAI",
+  "lang": "vi",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#080b12",
+  "theme_color": "#0b0f18",
+  "description": "Ứng dụng hướng dẫn tập gym, theo dõi tiến độ và chương trình cá nhân hóa.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
